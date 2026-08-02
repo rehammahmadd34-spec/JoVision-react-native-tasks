@@ -1,5 +1,5 @@
-import Task27 from './Tasks/Task27';
+import Task28 from './Tasks/Task28';
 
 export default function App() {
-  return <Task27 />;
+  return <Task28 />;
 }
